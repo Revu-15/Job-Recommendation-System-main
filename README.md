@@ -602,6 +602,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Redis** for high-performance caching
 ---
 
-**Made with ❤️ by Leo Ji**
+**Made with ❤️ by Revanth Reddy**
 
-*Last updated: December 2024*
+*Last updated: March 2026*
